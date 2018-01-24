@@ -12,7 +12,7 @@ More details can be seen in the publication below.
 # Publication
 
 LANDES, F. B.; SEMAAN, G. S.; PENNA, P. H. V. Um Algoritmo Heuristico Aplicado ao Problema de Corte Unidimensional. SOBRAPO (Ed.), XLIX Simpósio Brasileiro
-de Pesquisa Operacional – SBPO, p. 2137 – 2148, Blumenau - SC, 2017. Available in: http://www.sbpo2017.iltc.br/pdf/169181.pdf
+de Pesquisa Operacional – SBPO, p. 2137 – 2148, Blumenau - SC, 2017. Available in: https://www.researchgate.net/publication/322508802_Um_Algoritmo_Heuristico_Aplicado_ao_Problema_de_Corte_Unidimensional
 
 
 # Authors
